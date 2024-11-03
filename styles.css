@@ -1,5 +1,11 @@
 body{
-    background-color: black;
+    background-color: hsl(0, 0%, 8%);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: hsl(0, 0%, 12%);
 }
 @media (max-width: 375px) {
     .container {
