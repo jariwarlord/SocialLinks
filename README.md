@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jariwarlord/SocialLinks)
-- Live Site URL: [Add live site URL here](https://social-links-one-flax.vercel.app/)
+- Solution URL: (https://github.com/jariwarlord/SocialLinks)
+- Live Site URL: (https://social-links-one-flax.vercel.app/)
 
 ## My process
 
@@ -117,8 +117,3 @@ it teaach me how to fit components in different resolutions.
 - Frontend Mentor - [@jariwarlord](https://www.frontendmentor.io/profile/jariwarlord)
 - Twitter - [@berkedalar4](https://x.com/berkedalar4)
 
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
