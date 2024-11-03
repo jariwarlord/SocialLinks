@@ -1,0 +1,28 @@
+@media (max-width: 375px) {
+    .container {
+      padding: 10px;
+    }
+  
+    header h1 {
+      font-size: 24px;
+    }
+  
+    .content p {
+      font-size: 12px;
+    }
+  }
+  
+
+  @media (min-width: 1440px) {
+    .container {
+      padding: 40px;
+    }
+  
+    header h1 {
+      font-size: 36px;
+    }
+  
+    .content p {
+      font-size: 16px;
+    }
+  }
